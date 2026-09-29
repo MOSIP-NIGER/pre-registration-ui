@@ -79,7 +79,7 @@
     "CenterSelection": {
       "name": "Choisissez un centre d'inscription",
       "list": {
-        "line1": "Sur la page Rendez-vous du livre, vous pouvez trouver un centre d’inscription via les trois options suivantes:",
+        "line1": "Sur la page Rendez-vous, vous pouvez trouver un centre d’inscription via les trois options suivantes:",
         "line1_note": "Remarque: les centres d'inscription recommandés sont automatiquement affichés en fonction de vos détails démographiques (code postal).",
         "subList": {
           "line1": "Cliquez sur Centres proches pour afficher les centres d'enregistrement en fonction de votre situation géographique.",
@@ -278,8 +278,8 @@
     "link_login": "S'IDENTIFIER"
   },
   "login": {
-    "text": "Étapes rapides et faciles",
-    "sub_text": "Pré-inscription pour",
+    "text": "Bienvenue",
+    "sub_text": "Pré-inscription pour un",
     "sub_text_UID": "Numéro d'identification unique",
     "label_select": "Choisissez votre langue",
     "label_email_num": "Email ID ou numéro de téléphone",
@@ -288,7 +288,7 @@
     "action_resend": "Renvoyer",
     "action_verify": "Vérifier",
     "logout_msg": "L'utilisateur doit se connecter avec le même numéro de téléphone mobile/identifiant e-mail pour accéder aux applications créées.",
-    "otp_valid_label": "valable",
+    "otp_valid_label": "Votre OTP expire dans:",
     "invalidEmail": "Identifiant email invalide entré",
     "invalidMobile": "Numéro de téléphone invalide entré",
     "invalidInput": "Identifiant email ou numéro de portable invalide entré",
@@ -297,8 +297,8 @@
   },
   "stepper": {
     "link_demographic": "Détails démographiques",
-    "link_upload_doc": "Télécharger un document",
-    "link_book": "Rendez-vous du livre",
+    "link_upload_doc": "Documents administratifs",
+    "link_book": "Prendre un rendez-vous",
     "link_confirm": "Confirmation"
   },
   "demographic": {
@@ -410,7 +410,7 @@
     "text_not_uploaded": "Non téléchargé",
     "action_modify": "modifier",
     "action_back": "RETOUR",
-    "action_add_applicant": "AJOUTER LE CANDIDAT",
+    "action_add_applicant": "AJOUTER UNE AUTRE PERSONNE",
     "action_continue": "CONTINUER"
   },
   "message": {
@@ -457,11 +457,11 @@
     }
   },
   "dashboard": {
-    "title": "Vos applications",
+    "title": "Vos inscriptions",
     "action_modify_information": "Modifier les informations",
     "action_modify_appointment": "Réserver / modifier un rendez-vous",
-    "action_cre_application": "Créer une nouvelle application ",
-    "action_lost_uin": "Perdue UIN ",
+    "action_cre_application": "Nouvelle Inscription",
+    "action_lost_uin": "NIU Perdu",
     "action_update_registration": "Mettre à jour l'enregistrement ",
     "card": {
       "text_app_id": "ID d'application",
@@ -512,7 +512,7 @@
     }
   },
   "timeSelection": {
-    "title_book": "Rendez-vous du livre",
+    "title_book": "Prendre un rendez-vous",
     "text_prev": "précédent",
     "text_next": "Suivant",
     "text_morning": "Matin",
@@ -520,7 +520,7 @@
     "text_available": "Candidats disponibles",
     "text_selected": "Candidats sélectionnés",
     "text_availability": "Réservation disponible",
-    "text_slots": "fentes",
+    "text_slots": "Postes",
     "action_done": "TERMINÉ",
     "action_back": "RETOUR",
     "action_bookLater": "RÉSERVER PLUS TARD",
@@ -548,7 +548,7 @@
     }
   },
   "appointmentCentreSearch": {
-    "title": "Rendez-vous du livre",
+    "title": "Prendre rendez-vous",
     "text_recommended_centres": "Centres recommandés",
     "text_finding_result": "trouver le résultat pour",
     "text_nearBy": "Proche",
@@ -581,7 +581,7 @@
     "navigation_alert": "Certaines modifications non enregistrées sur ce formulaire seront perdues si vous décidez de quitter le formulaire. Souhaitez-vous vous éloigner?"
   },
   "centerSelection": {
-    "title": " Rendez-vous du livre ",
+    "title": "Prendre un rendez-vous",
     "action_nearBy": "Proche",
     "display_recommended": "Centres recommandés",
     "text_found": "A trouvé",

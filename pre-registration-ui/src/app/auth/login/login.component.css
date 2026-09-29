@@ -57,7 +57,7 @@ mat-form-field {
 }
 
 .pinkBg {
-  background-color: #fe528d;
+  background-color: #EB7F08;
 }
 .whiteText {
   color: white;
@@ -68,7 +68,11 @@ mat-form-field {
 }
 
 .pinkText {
-  color: #fe528d;
+  color: #EB7F08;
+}
+
+.orange-text {
+  color: #EB7F08;
 }
 
 button {

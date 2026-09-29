@@ -44,16 +44,16 @@
 .user header {
   margin: 0;
   font-weight: bold;
-  color: #fd518c;
+  color: #EB7F08;
 }
 
 .readOnly {
   margin: 0;
-  color: #fd518c;
+  color: #EB7F08;
 }
 
 .user hr {
-  border-top: 1.5px solid #fd518c;
+  border-top: 1.5px solid #EB7F08;
   position: relative;
   /* left: -31.8px; */
   margin-top: 0.5rem;
@@ -227,7 +227,7 @@ mat-icon {
   font-family:   Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-size: 0.8rem;
   margin: 10px 0px 10px 0px;
-  color: #fd518c;
+  color: #EB7F08;
   width: 80%;
   max-width: 124px;
   padding: 0.2rem 0;
@@ -235,7 +235,7 @@ mat-icon {
 }
 
 .user__genderAndForeigner .mat-button-toggle-checked {
-  background-color: #fd518c;
+  background-color: #EB7F08;
   color: white;
 }
 
@@ -387,7 +387,7 @@ mat-icon {
   color: white;
   min-height: 40px;
   padding: 10px;
-  background-color:rgb(11, 106, 130) ;
+  background-color:rgb(2, 92, 27);
 }
 .fieldContent {
   padding: 10px;

@@ -367,7 +367,7 @@ export class FileUploadComponent implements OnInit, OnDestroy {
         }
       });
     }
-    console.log(this.dataCaptureLanguages);
+    // console.log(this.dataCaptureLanguages);
   };
 
   /**

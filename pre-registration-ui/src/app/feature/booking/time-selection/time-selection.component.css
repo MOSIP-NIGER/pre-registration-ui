@@ -6,19 +6,17 @@
 }
 
 .time-selection__title-card {
-  color: #ff4081;
   padding: 0px;
   display: flex;
   align-items: center;
   white-space: nowrap;
   /* margin: 0px 2vw; */
-  border-bottom: 1px solid #ff4081;
+  border-bottom: 1px solid #EB7F08;
   border-radius: 0px !important;
   /* z-index:  -1; */
   position: relative;
 }
 .time-selection__note-text{
-  color: #ff4081;
   display: flex;
   align-items: center;
   white-space: nowrap;
@@ -39,7 +37,7 @@
 .time-selection__arrow-text {
   margin: auto;
   cursor: pointer;
-  color: #ff4081;
+  color: #EB7F08;
 }
 
 .time-selection__date-card {
@@ -90,11 +88,11 @@
 }
 
 .time-seelection__slot-groups-div-selected {
-  color: blue !important;
+  color: #025c1b !important;
 }
 
 .time-selection__time-slots-container {
-  border-top: 1px solid #ff4081;
+  border-top: 1px solid #EB7F08;
   margin-right: 20px;
   padding: 0;
   border-radius: 0px;
@@ -115,7 +113,7 @@
 .time-selection__name-list-header {
   min-height: 50px;
   width: 100%;
-  background-color: #3973ac;
+  background-color: #025c1b;
   padding: 5px 2rem;
   word-wrap: break-word;
   color: white;
@@ -152,7 +150,7 @@
 .selected-name-list-item {
   padding: 10px;
   min-height: 30px;
-  border-bottom: 1px solid #ff4081;
+  border-bottom: 1px solid #EB7F08;
   width: 100%;
   font-size: 0.8rem;
 }
@@ -199,7 +197,7 @@
 .card-slot-text {
   font-size: 11px;
   font-weight: 500;
-  color: blue;
+  color: #025c1b;
 }
 
 .card-slot-text-span-number {
@@ -260,11 +258,11 @@
 }
 
 .selected {
-  border: 1px solid #ff4081;
+  border: 1px solid #EB7F08;
 }
 
 .selected-card {
-  background-color: #ff4081 !important;
+  background-color: #EB7F08 !important;
   color: white !important;
 }
 
